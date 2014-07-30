@@ -20,5 +20,6 @@
     ".sass-cache",
     ".gitignore",
     "Makefile"
+    "README.md"
   ]
 }
