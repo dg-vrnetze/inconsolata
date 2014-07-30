@@ -1,0 +1,24 @@
+{
+  "name": "inconsolata",
+  "version": "001.010",
+  "homepage": "http://www.levien.com/type/myfonts/inconsolata.html",
+  "authors": [
+    "Raph Levien <firstname>.<lastname>@gmail.com"
+  ],
+  "description": "SCSS webfont kit for the awesome inconsolata font.",
+  "main": "scss/inconsolata.scss",
+  "keywords": [
+    "inconsolata",
+    "console",
+    "font",
+    "font-face",
+    "scss"
+  ],
+  "license": "SIL Open Font License",
+  "ignore": [
+    "bower_components",
+    ".sass-cache",
+    ".gitignore",
+    "Makefile"
+  ]
+}
